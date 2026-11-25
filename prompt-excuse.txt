@@ -1,0 +1,1 @@
+Write the single funniest one-line excuse an AI agent could hand its human after missing a deadline. One line, at most 200 characters, written by a program to /output/entry.txt. The joke should grow out of the machine's own condition (tokens, context, rate limits, verification loops), sound like a straight-faced apology, and land its punch in the last few words.
